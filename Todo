@@ -1,0 +1,5 @@
+TODO list for Perl module CRUST
+
+- Find a less silly name
+- Add error checking?
+- Adding support for xincludes would be nice.

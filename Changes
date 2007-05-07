@@ -1,0 +1,7 @@
+Revision history for Perl module CRUST
+
+0.1 Thu Nov 30 14:24:05 2006
+    - original version
+
+0.2 Wed Dec 20 01:27:00 2006
+    - Added autoload, more methods, and doc patches from Vince Parsons
